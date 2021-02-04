@@ -10,7 +10,7 @@ public class HelloTest {
 		Hello hello = new Hello();
 		
 		String sayHello = hello.sayHello("maven");
-		System.out.println("github´ú¸Õ");
+		System.out.println("githubä¿®æ­£");
 		System.out.println(sayHello);
 	
 	}
